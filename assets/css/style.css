@@ -33,6 +33,7 @@ body {
     padding: 1%;
 }
 
+
 .question-area {
     width: 50%;
     font-size: 2rem;
@@ -42,6 +43,7 @@ body {
 
 .question-area span {
     padding: 0 15px;
+    font-size: 1.2rem;
 }
 
 .score-area {
@@ -177,7 +179,7 @@ body {
 
 /* --------- Media queries */
 
-@media (max-width: 414px) {
+@media (max-width: 425px) {
     .controls-area {
         width: 100%;
     }
